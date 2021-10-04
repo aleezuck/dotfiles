@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = a.leezuck@gmail.com
+	name = Amanda Lee-Zuck
